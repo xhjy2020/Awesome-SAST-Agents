@@ -7,8 +7,10 @@
 - [项目](#项目)
 - [推文](#推文)
 ## 论文
-- **[ICLR25]** IRIS: LLM-Assisted Static Analysis for Detecting Security Vulnerabilities [[论文]](https://arxiv.org/abs/2405.17238) [[代码库]](https://github.com/iris-sast/iris)
 - **[ICSE24]** GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining GPT with Program Analysis [[论文]](https://arxiv.org/abs/2308.03314) [[代码库]](https://github.com/GPTScan/GPTScan)
+- **[ICLR25]** IRIS: LLM-Assisted Static Analysis for Detecting Security Vulnerabilities [[论文]](https://arxiv.org/abs/2405.17238) [[代码库]](https://github.com/iris-sast/iris)
+- **[arXiv 25.01]** RepoAudit: An Autonomous LLM-Agent for Repository-Level Code Auditing [[论文]](https://arxiv.org/abs/2501.18160)
+
 
 ## 项目
 - **Mirror-Flowers** [[代码库]](https://github.com/Ky0toFu/Mirror-Flowers)
